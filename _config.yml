@@ -16,7 +16,7 @@ highlight:
   line_number: false
 per_page: 0
 
-theme: navy
+theme: next
 deploy:
   type: git
   repo: git@github.com:hexojs/hexojs.github.io.git
